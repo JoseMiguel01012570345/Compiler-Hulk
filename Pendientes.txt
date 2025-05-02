@@ -1,1 +1,0 @@
-Corregir problemas de nombres para protocolos base
