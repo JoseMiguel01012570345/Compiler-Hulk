@@ -12,8 +12,7 @@ The **HULK Compiler** is designed to demonstrate the principles of compiler cons
 ## Project Structure
 
 - **/src**: Contains the source code for the compiler.
-- **/tests**: Includes test cases for validating the compiler's functionality.
-- **/docs**: Documentation related to the project.
+- **/src/tests**: Includes test cases for validating the compiler's functionality.
 - **/examples**: Sample programs to test the compiler.
 
 ## Dependencies
